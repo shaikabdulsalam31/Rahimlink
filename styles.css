@@ -1,0 +1,50 @@
+.dp{
+    display: block;
+    height: 250px;  
+    width: 300px;
+    border-radius: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+body{
+    color: ghostwhite;
+   background-image: url(bgg.png);
+   background-size: cover;
+   font-family: monospace;
+}
+h1{
+    
+    font-family: monospace;
+    text-align: center;
+
+}
+
+p{
+     font-size: 18px;
+     font-kerning: auto;
+     text-align: center;
+     margin: auto;
+     display: block;
+    }
+a{
+    color: ghostwhite;
+    
+}
+.links{
+    text-align: center;
+    margin-top: 20px;
+    border: 2px solid rgb(195, 187, 241);
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+a:hover{
+    background-color:rgb(150, 162, 218)
+}
+
